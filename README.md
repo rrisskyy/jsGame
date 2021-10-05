@@ -2,13 +2,13 @@
 
 
 Drum Kit
-https://rrisskyy.github.io/jsGame/Drum%20Kit/
+https://rrisskyy.github.io/drum-kit/
 
 Simon Game
-https://rrisskyy.github.io/jsGame/Simon%20Game/
+https://rrisskyy.github.io/simon-game/
 
 Jan Ken Pon
-https://rrisskyy.github.io/jsGame/Jan-Ken-Pon/
+https://rrisskyy.github.io/jankenpon/
 
 Dice
-https://rrisskyy.github.io/jsGame/Dicee/
+https://rrisskyy.github.io/dice/
